@@ -1,19 +1,19 @@
 # Cinema-Management-System 
 # Tsantopoulos-Dimitrios-Paroikos-Ioannis
-⚙️ IntelliJ IDEA Setup
-1. Ενεργοποίηση Annotation Processing
-Αυτό είναι υποχρεωτικό για να δουλέψει το Lombok:
-`File → Settings → Build, Execution, Deployment → Compiler → Annotation Processors`
-→ ✅ Enable annotation processing (check checkbox)
-2. Java SDK
-Χρησιμοποιούμε Java 17 ή 21:
-`File → Project Structure → Project → SDK`
-3. Reload Maven
-`Maven panel (δεξιά) → 🔄 Reload All Maven Projects`
-4. Αν εμφανιστεί `TypeTag::UNKNOWN` error
-Αυτό φτιάχνεται με τα παραπάνω βήματα. Αν συνεχίσει:
-`File → Invalidate Caches → Invalidate and Restart`
-Μετά redo τα βήματα 1-3
+⚙️ IntelliJ IDEA Setup  
+1. Ενεργοποίηση Annotation Processing  
+Αυτό είναι υποχρεωτικό για να δουλέψει το Lombok:  
+`File → Settings → Build, Execution, Deployment → Compiler → Annotation Processors`  
+→ ✅ Enable annotation processing (check checkbox)  
+2. Java SDK  
+Χρησιμοποιούμε Java 17 ή 21:  
+`File → Project Structure → Project → SDK`  
+3. Reload Maven  
+`Maven panel (δεξιά) → 🔄 Reload All Maven Projects`  
+4. Αν εμφανιστεί `TypeTag::UNKNOWN` error  
+Αυτό φτιάχνεται με τα παραπάνω βήματα. Αν συνεχίσει:  
+`File → Invalidate Caches → Invalidate and Restart`  
+Μετά redo τα βήματα 1-3  
 ---
 Cinema Management System — Backend API
 Developed for the course 321-4002 Software Engineering  
