@@ -1,4 +1,5 @@
-# Cinema-Management-System---Paroikos-Ioannis-Tsantopoulos-Dimitrios
+# Cinema-Management-System 
+# Tsantopoulos-Dimitrios-Paroikos-Ioannis
 ⚙️ IntelliJ IDEA Setup
 1. Ενεργοποίηση Annotation Processing
 Αυτό είναι υποχρεωτικό για να δουλέψει το Lombok:
